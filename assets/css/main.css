@@ -1479,3 +1479,15 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
+
+
+
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+
