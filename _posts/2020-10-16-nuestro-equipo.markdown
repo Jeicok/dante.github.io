@@ -6,7 +6,8 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: how-to-start.jpg # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
-###Nuestro equipo
+### Nuestro equipo
+
 Cristian Robalino
 Instructor de Spinning
 
