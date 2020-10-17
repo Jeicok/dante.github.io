@@ -9,9 +9,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Jeison Hurtado # add your name
-author-img: Gym olimpo (perfil).png # add your photo
-about-author:  Amplia variedad de áreas de entrenamiento. Máquinas, spinning, aeróbicos, baile, nutrición, spa, sauna, baño turco, piscina. # add description
+author: Gimnasio "EL olimpo" # add your name
+author-img: perfil gym.jpg # add your photo
+about-author:  El gimnasio "El Olimpo" tiene una amplia variedad de áreas de entrenamiento como máquinas, spinning, aeróbicos, baile, nutrición, spa, sauna, baño turco y piscina. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
