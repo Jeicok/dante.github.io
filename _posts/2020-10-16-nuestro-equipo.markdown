@@ -11,6 +11,13 @@ Contamos con buenos entrenadores en distintas areas de ejercicios
 
 
 ![spinning]({{site.baseurl}}/assets/img/Instructor-Spinning.jpg){: .center-image }
+<p style="text-align:center;">
+Vladimir Chiriboga
+##Nutricionista
+</p>
+
+
+
 Cristian Robalino
 ## Instructor de Spinning
 
