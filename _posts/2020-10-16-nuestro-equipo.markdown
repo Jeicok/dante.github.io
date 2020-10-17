@@ -12,8 +12,8 @@ Contamos con buenos entrenadores en distintas areas de ejercicios
 
 ![spinning]({{site.baseurl}}/assets/img/Instructor-Spinning.jpg){: .center-image }
 <p style="text-align:center;">
-Vladimir Chiriboga
-##Nutricionista
+Vladimir Chiriboga<br>
+<h2>Nutricionista</h2>
 </p>
 
 
