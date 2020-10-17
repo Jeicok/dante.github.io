@@ -11,22 +11,27 @@ Contamos con buenos entrenadores en distintas areas de ejercicios
 
 
 ![spinning]({{site.baseurl}}/assets/img/Instructor-Spinning.jpg)
-Cristian Robalino
+## Cristian Robalino
 ### Instructor de Spinning
 
 
 
+
+![croosfit]({{site.baseurl}}/assets/img/Instructor-CrossFit.jpg)
 Yoli Ortíz
 ### Instructora de Funcional
 
 
 
+
+![nutricionista]({{site.baseurl}}/assets/img/Nutricionista.jpg)
 Vladimir Chiriboga
 ### Nutricionista
 
 
 
 
+![maquinas]({{site.baseurl}}/assets/img/Instructor-Maquinas.jpg)
 Gilda Banchón
 ### Instructora de Máquinas
 
