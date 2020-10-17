@@ -14,10 +14,19 @@ tags: [Productivity, Workflow] # add tag
 
 Ayuda a trabajar todo el cuerpo involucrando activamente varios grupos musculares en la mismo sesión, utilizando gran variedad de ejercicios con movimientos muy completos.
 
+![spinning]({{site.baseurl}}/assets/img/Crossfit-1.jpg){: .center-image }
+
+
+
 
 ### Ciclismo Indoor
 
 Es una actividad aeróbica que consiste en trabajar fuerza, resistencia y velocidad, a ritmos específicos de música, articulado sobre una bicicleta.
+
+![spinning]({{site.baseurl}}/assets/img/Spinning-2.jpg){: .center-image }
+
+
+
 
 
 
@@ -28,3 +37,7 @@ Es una actividad aeróbica que consiste en trabajar fuerza, resistencia y veloci
 – Elípticas
 
 – Bicicletas estáticas
+
+![spinning]({{site.baseurl}}/assets/img/Sala-de-Cardio-3.jpg){: .center-image }
+
+
