@@ -11,8 +11,8 @@ Contamos con buenos entrenadores en distintas areas de ejercicios
 
 
 ![spinning]({{site.baseurl}}/assets/img/Instructor-Spinning.jpg){: .center-image }
-Cristian Robalino{: .center-texto }
-## Instructor de Spinning{: .center-texto }
+                             Cristian Robalino
+                        ## Instructor de Spinning
 
 
 
