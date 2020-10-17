@@ -8,26 +8,27 @@ tags: [Programming, Learn] # add tag
 ---
 Contamos con buenos entrenadores en distintas areas de ejercicios
 
-### Nuestro equipo
 
+
+![spinning]({{site.baseurl}}/assets/img/Instructor-Spinning.jpg)
 Cristian Robalino
-Instructor de Spinning
+### Instructor de Spinning
 
 
 
 Yoli Ortíz
-Instructora de Funcional
+### Instructora de Funcional
 
 
 
 Vladimir Chiriboga
-Nutricionista
+### Nutricionista
 
 
 
 
 Gilda Banchón
-Instructora de Máquinas
+### Instructora de Máquinas
 
 
 
